@@ -1,0 +1,23 @@
+# Build outputs
+h264_ps2_player.elf
+h264_ps2_player.iso
+ps2_payload.bin
+ps2_player_package.tar.gz
+VIDEO.264
+raw_testvideo.h264
+raw_whatsapp.h264
+testvideo.h264
+*.mp4
+*.o
+*.a
+*.d
+*.map
+*.bin
+*.iso
+
+# Generated directories
+build/
+old/
+
+# Emulator logs / misc
+ps2_stdout.log
